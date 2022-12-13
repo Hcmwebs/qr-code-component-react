@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot-Mobile](./public/assets/Screenshots/Screenshot-Desktop.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-[Frontend mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-YG7ZPpmlCM)
+-[Live Site ](https://qr-code-component-react-seven.vercel.app/)
 
 ## My process
 
